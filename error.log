@@ -1,0 +1,5 @@
+[11-Jun-2023 20:43:27 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\PhpBasics\Database.php:13
+Stack trace:
+#0 C:\xampp\htdocs\PhpBasics\Database.php(13): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'registration')
+#1 {main}
+  thrown in C:\xampp\htdocs\PhpBasics\Database.php on line 13

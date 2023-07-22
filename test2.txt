@@ -1,0 +1,6 @@
+write whatever you want to add in your file through the fwrite function by using file pointer through fopen function.And believe me its true!
+this is another content
+this is another content2
+this is the appended text
+this is the appended text
+this is the appended text2
